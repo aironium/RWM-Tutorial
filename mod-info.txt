@@ -1,0 +1,7 @@
+[mod]
+title: Tutorial Set
+description: For tutorial purposes. Feel free to use.
+minVersion: 1.15
+
+
+
